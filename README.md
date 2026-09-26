@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </p>
 
----
-
 <p align="center">
   I'm a <b>DevOps Engineer</b> focused on building reliable cloud infrastructure, Kubernetes platforms,
   CI/CD pipelines, infrastructure automation, and developer tooling.<br/>
@@ -33,8 +31,6 @@
   <br/>
   <b>7+ years of experience</b> across DevOps, cloud, automation, and platform engineering.
 </p>
-
----
 
 <h3>🛠️ What I Work With</h3>
 
@@ -77,8 +73,6 @@
   </tr>
 </table>
 
----
-
 <h3>🚀 Areas I'm Building</h3>
 
 <ul>
@@ -89,8 +83,6 @@
   <li>🤖 AI-assisted DevOps automation and automated remediation</li>
   <li>🧠 MLOps, LLMOps, RAG, and agentic AI platforms</li>
 </ul>
-
----
 
 <h3>📌 Engineering Focus</h3>
 
@@ -107,16 +99,12 @@
   <code>Platform Engineering</code>
 </p>
 
----
-
 <h3>📚 Currently Learning</h3>
 
 <p>
   AWS architecture, advanced Kubernetes, system design, DSA, MLOps, LLMOps,
   GPU infrastructure, NVIDIA CUDA, and production AI platforms.
 </p>
-
----
 
 <h3>💡 Engineering Philosophy</h3>
 
@@ -126,8 +114,6 @@
   Make deployments predictable.<br/>
   Build systems that are easy to operate and troubleshoot.
 </p>
-
----
 
 <h3>📫 Let's Connect</h3>
 
