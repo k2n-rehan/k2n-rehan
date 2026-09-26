@@ -115,6 +115,20 @@
   Build systems that are easy to operate and troubleshoot.
 </p>
 
+<h3>📈 Activity</h3>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RehanKhan1704&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanKhan1704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RehanKhan1704/RehanKhan1704/output/github-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/RehanKhan1704/RehanKhan1704/output/github-snake-dark.svg">
+  </picture>
+</p>
+
 <h3>📫 Let's Connect</h3>
 
 <p align="center">
