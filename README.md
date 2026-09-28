@@ -45,11 +45,11 @@
   </tr>
   <tr>
     <td><b>Infrastructure as Code</b></td>
-    <td>Terraform, Ansible, CloudFormation</td>
+    <td>Terraform, Ansible</td>
   </tr>
   <tr>
     <td><b>CI/CD</b></td>
-    <td>GitHub Actions, GitLab CI, Azure DevOps, Jenkins</td>
+    <td>GitHub Actions, GitLab CI, Azure DevOps</td>
   </tr>
   <tr>
     <td><b>GitOps</b></td>
